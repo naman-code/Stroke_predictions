@@ -1,1 +1,2 @@
 # Stroke_predictions
+This is code to machine learning Program to predict whether a person will suffer a strike in the near future or not with help of python Here i have made a simple project of stroke prediction with help of python and machine learning algorithms. here the interface that i uploaded is a basic imterface with python and i will shortly upload the web app interface link as well. if anyone have and doubts or and suggestion pls do so. Thanks
